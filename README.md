@@ -26,10 +26,6 @@ CrosshairOverlay 是一款专为独立游戏开发者和竞技玩家设计的屏
 
 如果你有 Python 环境，可以直接按以下步骤操作：
 
-# 克隆项目
-git clone [https://github.com/你的用户名/CrosshairOverlay.git](https://github.com/你的用户名/CrosshairOverlay.git)
-cd CrosshairOverlay
-
 # 安装必要的轻量依赖
 pip install pystray pillow
 
@@ -72,5 +68,3 @@ python build.py
 🤝 贡献与反馈
 
 如果您在使用过程中发现任何 Bug，或者有更好的体积精简方案（例如 Nuitka 编译建议），欢迎提交 Issue 或 Pull Request！
-
-由独立游戏开发者为开发者打造。
